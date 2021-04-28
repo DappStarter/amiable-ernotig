@@ -1,0 +1,19 @@
+{
+    "name": "The CryptoWaggles",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/ipfs": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/collection/entity": true,
+        "/category/file_storage/ipfs/mode": "folder",
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "The CryptoWaggles",
+        "/category/asset_value_tracking/token/symbol": "TCW",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "10000"
+    }
+}
